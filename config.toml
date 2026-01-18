@@ -12,6 +12,9 @@ taxonomies = [
   { name = "tags", feed = true },
 ]
 
+default_language = "en"
+theme = "zola-bearblog"
+
 [markdown]
 
 [markdown.highlighting]
