@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - blogging</title>
+    <link rel="self" type="application/atom+xml" href="https://c7a6.github.io/tags/blogging/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://c7a6.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-18T00:00:00+00:00</updated>
+    <id>https://c7a6.github.io/tags/blogging/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Open my Blog</title>
+        <published>2026-01-18T00:00:00+00:00</published>
+        <updated>2026-01-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://c7a6.github.io/blog/opening/"/>
+        <id>https://c7a6.github.io/blog/opening/</id>
+        
+        <content type="html" xml:base="https://c7a6.github.io/blog/opening/">&lt;p&gt;Hi!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
