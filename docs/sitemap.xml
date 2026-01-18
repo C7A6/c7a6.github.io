@@ -7,9 +7,16 @@
         <loc>https://c7a6.github.io/blog/</loc>
     </url>
     <url>
+        <loc>https://c7a6.github.io/blog/opening/</loc>
+        <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
         <loc>https://c7a6.github.io/categories/</loc>
     </url>
     <url>
         <loc>https://c7a6.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://c7a6.github.io/tags/blogging/</loc>
     </url>
 </urlset>
