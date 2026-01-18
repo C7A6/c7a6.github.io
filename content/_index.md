@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **AI Agent and Crypto Finance**
 
-- 📝 I regularly write articles on [c7a6.github.io](c7a6.github.io)
+- 📝 I regularly write articles on [c7a6.github.io](https://c7a6.github.io)
 
 - 📫 How to reach me **dad-hunger-mantra@duck.com**
 
