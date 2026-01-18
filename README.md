@@ -18,5 +18,5 @@ set -e
 
 zola build
 
-git commit --all -m "chore: xc publish"
+git add --all && git commit -m "chore: xc publish"
 ```
