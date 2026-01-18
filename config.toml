@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://c7a6.github.io"
 
+# Set output directory to docs
+output_dir = "docs"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
